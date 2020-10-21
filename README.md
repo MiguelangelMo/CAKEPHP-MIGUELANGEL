@@ -17,8 +17,10 @@ la cual tiene como nombre projecttest.sql.
 
 Por favor para evitar cualquier problema de versión o subyacente acá dejo las lineas para evitar ciertos conflictos en el sistema.
 
+- composer install
+
 Para iniciar la API (json-server) debe utilizar los siguiente comandos.
 
--npm install -g json-server
+- npm install -g json-server
 
--json-server --watch db.json
+- json-server --watch db.json
