@@ -11,7 +11,7 @@ email: itachi@uchiha.com
 password: 123456
 
 También adjunto la API (json-server) de la cual se obtienen los datos de la misma, esta misma posee el nombre "db.json", cabe destacar que también adjunto la DB de MySql
-la cual tiene como nombre projecttest.
+la cual tiene como nombre projecttest.sql.
 
 ## EXTRA 
 
